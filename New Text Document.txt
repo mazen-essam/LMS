@@ -1,0 +1,12 @@
+signuup>>>>>>>>student
+loogin>>>>>>student
+-----------------------
+signup>>>>>>>>>>admin
+lodin>>>>>>>>>>admin
+-----------------------
+login2>>>>>>>>>>>>inst
+//////////////database connect////////////////////////////////
+ host: "localhost",
+ user: "root",
+ password: "",    
+ database: "signup"
